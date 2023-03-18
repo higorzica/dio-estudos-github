@@ -1,0 +1,4 @@
+O que é o git clone?
+-Para copiar e iniciar um repositório que você criou no github é muito útil.
+-Pode ser feito abrindo o git bash na pasta onde deseja clonar os arquivos, e inserindo o comando no terminar git clone "https://github.com/higorzica/dio-estudos-github.git".
+
