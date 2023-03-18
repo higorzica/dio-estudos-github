@@ -1,0 +1,4 @@
+O que é o create repository?
+-É uma ferramenta para armazenar , organizar , codigo e informações do projeto com toda equipe ou de maneira publica.
+-Pode ser feito abrindo o github na aba de new repository, escreva o nome do repositorio, sua descrição, escolha se é publico. Adicione o arquivo readme.me para ter uma descrição visual ao acessar o repositorio do que ele se trata.
+
